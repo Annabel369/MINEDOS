@@ -2,6 +2,9 @@
 
 # 🎮 128GN CEAMARE & MINEDOS 3D (MS-DOS)
 
+<img width="1339" height="800" alt="Gemini_Generated_Image_gra3a1gra3a1gra3" src="https://github.com/user-attachments/assets/ac889642-3b46-4fbf-bf15-4733e73163d0" />
+
+
 [![DOS](https://img.shields.io/badge/OS-MS--DOS%20%2F%20FreeDOS-orange.svg)](https://www.freedos.org/)
 [![Compiler](https://img.shields.io/badge/Compiler-Borland%20C%2B%2B%203.1-blue.svg)](https://en.wikipedia.org/wiki/Borland_C%2B%2B)
 [![Graphics](https://img.shields.io/badge/Graphics-VGA%20Mode%2013h%20(320x200)-brightgreen.svg)](https://en.wikipedia.org/wiki/Mode_13h)
