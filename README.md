@@ -1,3 +1,4 @@
+<img width="960" height="1101" alt="Gemini_Generated_Image_2wv52m2wv52m2wv5" src="https://github.com/user-attachments/assets/82cf3b42-98fb-42b5-a32d-bbff37994da7" />
 <div align="center">
 
 # 🎮 128GN CEAMARE & MINEDOS 3D (MS-DOS)
